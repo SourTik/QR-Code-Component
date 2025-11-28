@@ -12,8 +12,7 @@ Users should be able to:
 2. See a clean, centered QR code card with proper spacing and typography.
 
 # Screenshot
-![](./design/desktop-design.jpg)
-![](./design/mobile-design.jpg)
+![](./Screenshot.png)
 
 Add your screenshot here
 
