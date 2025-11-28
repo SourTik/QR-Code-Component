@@ -14,17 +14,6 @@ Users should be able to:
 # Screenshot
 ![](./Screenshot.png)
 
-Add your screenshot here
-
-
-# Built With
-
-HTML5 – Semantic markup
-
-CSS3 – Flexbox, custom properties
-
-Mobile-first workflow
-
 # Links
 
 Live Demo: [https://sourtik.github.io/QR-Code-Component/]
@@ -32,4 +21,4 @@ Code: [https://github.com/SourTik/QR-Code-Component]
 
 
 Challenge by Frontend Mentor.
-Designs provided by them; implementation by me.
+Designs provided by them; Code by me.
