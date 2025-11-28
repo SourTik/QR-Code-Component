@@ -26,22 +26,11 @@ CSS3 – Flexbox, custom properties
 
 Mobile-first workflow
 
-# What I Learned
+# Links
 
-How to structure a small UI component using clean HTML and CSS.
+Live Demo: [https://sourtik.github.io/QR-Code-Component/]
+Code: [https://github.com/SourTik/QR-Code-Component]
 
-Practiced working with card layouts and consistent spacing.
-
-Reinforced responsive design fundamentals with Flexbox.
-
-# Getting Started
-
-Clone the project:
-
-git clone https://github.com/your-username/qr-code-component.git
-
-
-Open index.html in your browser.
 
 Challenge by Frontend Mentor.
 Designs provided by them; implementation by me.
